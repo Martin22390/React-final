@@ -47,4 +47,7 @@ Navbar:
 Encontramos el titulo de la pagina, los distintos articulos en su categoria, el carwidget y el boton de finalizar compra.
 
 Demo:
-Video explicativo adjunto.
+Video explicativo:
+https://github.com/Martin22390/React-final/assets/126283981/04f86580-c5e1-409d-95c2-7054e7949d5f
+
+
