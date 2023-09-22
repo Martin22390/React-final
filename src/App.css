@@ -96,23 +96,23 @@
   background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
   padding: 20px;
   display: flex;
-  flex-direction: column; /* Cambia la dirección de la columna para que los elementos fluyan verticalmente */
-  align-items: center; /* Centra los elementos horizontalmente */
+  flex-direction: column; 
+  align-items: center; 
 }
 
 /* Item list title */
 .item-list-title {
   font-size: 24px;
   margin-bottom: 20px;
-  text-align: center; /* Centra el título */
+  text-align: center; 
 }
 
 .item-list {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center; /* Centra los elementos horizontalmente */
-  gap: 20px; /* Añade espacio entre elementos */
+  justify-content: center; 
+  gap: 20px; 
 }
 
 /* Item list item */
@@ -123,10 +123,11 @@
   background-color: #fff;
   border-radius: 5px;
   transition: transform 0.3s, box-shadow 0.3s;
-  width: calc(33.33% - 40px); /* Ajusta el ancho para mostrar 3 por fila con espacio entre elementos */
-  margin-bottom: 40px; /* Añade espacio entre filas */
-  text-align: center; /* Centra el contenido horizontalmente */
+  width: 300px; 
+  margin-bottom: 40px; 
+  text-align: center; 
 }
+
 
 /* Efecto hover en los productos */
 .item-list-item:hover {
@@ -206,4 +207,3 @@
 .checkout-button:hover {
   background-color: #555;
 }
-
